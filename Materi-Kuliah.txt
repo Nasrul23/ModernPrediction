@@ -1,2 +1,3 @@
 Kaggel, Git, Github
 + Pengenalan Kaggel
++ k-means

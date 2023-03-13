@@ -1,0 +1,3 @@
++ mempelajari dasar-dasar machine learning
++ mempelajari tools yang akan digunakan dalam machine learning
++ memulai mencoba membuat projects dasar machine learning 

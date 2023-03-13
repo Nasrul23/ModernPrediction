@@ -1,2 +1,2 @@
 # ModernPrediction
-Machine Learning mata kuliah sains data```````````````````
+Machine Learning mata kuliah sains data
